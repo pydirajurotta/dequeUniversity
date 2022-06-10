@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Testing Deque App">
+    <test name="DequeUniversityDemo">
+        <classes>
+            <class name="com.deque.tests.SeleniumTests"/>
+            <class name="com.deque.tests.SeleniumIntegrationWithAxeCore"/>
+        </classes>
+    </test>
+</suite>
